@@ -1,6 +1,13 @@
 {
-  "name": "voyage-svg",
-  "version": "0.0.0",
+  "name": "@webjunto/voyage-svg",
+  "version": "0.0.1",
+  "description": "Angular library to create custom map-based Voyages with SVGs",
+  "keywords": [
+    "angular",
+    "svg",
+    "map",
+    "voyage"
+  ],
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -8,9 +15,14 @@
     "build": "ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "packagr": "ng-packagr -p ng-package.json"
   },
-  "private": true,
+  "private": false,
+  "repository": "github:Webjunto/voyage-svg",
+  "bugs": {
+    "url": "https://github.com/Webjunto/voyage-svg/issues"
+  },
   "dependencies": {
     "@angular/animations": "^5.2.0",
     "@angular/common": "^5.2.0",
@@ -22,6 +34,7 @@
     "@angular/platform-browser-dynamic": "^5.2.0",
     "@angular/router": "^5.2.0",
     "core-js": "^2.4.1",
+    "hammerjs": "^2.0.8",
     "rxjs": "^5.5.6",
     "zone.js": "^0.8.19"
   },
@@ -29,6 +42,10 @@
     "@angular/cli": "1.6.8",
     "@angular/compiler-cli": "^5.2.0",
     "@angular/language-service": "^5.2.0",
+    "@types/hammerjs": "^2.0.35",
+    "codelyzer": "^4.1.0",
+    "ng-packagr": "^2.0.0",
+    "tslint": "^5.9.1",
     "typescript": "~2.5.3"
   }
 }

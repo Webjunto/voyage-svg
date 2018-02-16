@@ -1,0 +1,446 @@
+{
+  "mapUrl": "http://placehold.it/1200x900",
+  "currentPoints": 200,
+  "stops": [
+    {
+      "id": 180,
+      "status": 1,
+      "name": "Portland, ME",
+      "description":
+        "Portland is the largest city and port in Maine and in closest proximity to Boston, making it the state's economic capital. The Old Port district and Portland Head Light are some of the area's most frequented destinations.",
+      "image": "http://placehold.it/400x400",
+      "pointsRequired": 0,
+      "completedItems": [],
+      "recommendedActions": [""],
+      "subStops": []
+    },
+    {
+      "id": 181,
+      "status": 1,
+      "name": "Boston, USA",
+      "description":
+        "Located on the North Atlantic coast, Boston is Massachusetts' capital and largest city and one of the oldest in the U.S. The Freedom Trail, Fenway Park and The Boston Common are among the top things to do and see in the historic city.",
+      "image": "http://placehold.it/400x400",
+      "pointsRequired": 115,
+      "completedItems": [
+        {
+          "name": "Enroll in the Asthma Condition Management Program",
+          "pointsEarned": 25
+        },
+        {
+          "name": "Complete Asthma Phase of Engagement Survey",
+          "pointsEarned": 50
+        },
+        { "name": "Complete Asthma Assessment", "pointsEarned": 50 }
+      ],
+      "recommendedActions": [""],
+      "subStops": [
+        {
+          "id": 237,
+          "name": "Walking Tour",
+          "description":
+            "Boston tops the list of U.S. Cities where the most people bike and walk to work. Walk the 2.5-mile Freedom Trail, which takes you by sixteen locations significant to the country's history.",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 238,
+          "name": "Boston Eats",
+          "description":
+            "Boston is a great place to indulge your cravings for seafood. The region is known, among other things, for its New England clam chowder which, while delicious, is cream-based and calorically dense. Best to enjoy a few spoonfuls alongside a more balanced meal, like a baked or seared fish entree; or a shellfish dish like lobster, oysters, shrimp or scallops; also seafood atop a salad. Check out Faneuil Hall marketplace for quick eats from a variety of locales.",
+          "image":
+            "http://placehold.it/400x400"
+        },
+        {
+          "id": 239,
+          "name": "Public Park",
+          "description":
+            "Take a stroll through or have a picnic in The Boston Common - the oldest public park in the U.S. In the colder months, they freeze the Frog Pond for ice skating - a great cold weather, family-friendly activity for tourists and locals alike.",
+          "image":
+            "http://placehold.it/400x400"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "status": 1,
+      "name": "New York, NY",
+      "description":
+        "New York City (NYC) is comprised of five boroughs and home to more than 8.5 million people, making it the most populous city in the US. Recognized as the cultural, financial and media capital of the world, NYC is also home to the headquarters of the United Nations. The Empire State Building, Central Park and Times Square are a few of the city's many iconic sites.",
+      "image": "http://placehold.it/400x400",
+      "pointsRequired": 125,
+      "completedItems": [
+        { "name": "Complete Asthma Assessment", "pointsEarned": 50 }
+      ],
+      "recommendedActions": [""],
+      "subStops": [
+        {
+          "id": 240,
+          "name": "Best Restaurant City",
+          "description":
+            "Often labeled as the best restaurant city in the world, NYC is as much a culinary melting pot as it is a cultural one. If you're going to indulge, grab a slice of the city's famous thin-crust pizza. Explore the city foot and you'll surely burn it off... and then some!",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 241,
+          "name": "Walk Everywhere",
+          "description":
+            "One of the best ways to avoid subway delays, cab fares and extra pounds on your waistline is to walk everywhere. Take a walk or run through Central Park, or get a day pass and squeeze in a workout at Chelsea Piers. If your visit coincides with the holidays, go to Rockefeller Center and enjoy the ice skating rink and festive decor.",
+          "image":
+            "http://placehold.it/400x400"
+        },
+        {
+          "id": 242,
+          "name": "Cultural Diversity",
+          "description":
+            "With over 800 languages spoken there, NYC is the most linguistically diverse city in the world and attracts millions of visitors annually. Visit the various neighborhoods of New York to experience different cultures.",
+          "image": "http://placehold.it/400x400"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "status": 1,
+      "name": "Savannah, GA",
+      "description":
+        "Savannah, a coastal city, is the oldest in Georgia and one of the most visited in the South. Known for it's beautiful landscapes, well-preserved architecture and hospitality, it is one of the largest National Historical Landmark districts in the country.",
+      "image": "http://placehold.it/400x400",
+      "pointsRequired": 140,
+      "completedItems": [
+        {
+          "name": "Enroll in the Diabetes Condition Management Program",
+          "pointsEarned": 25
+        }
+      ],
+      "recommendedActions": [""],
+      "subStops": [
+        {
+          "id": 243,
+          "name": "Entertainment",
+          "description":
+            "The bench used in \"Forrest Gump\" is an officially recognized piece of Savannah history; \"Force of Nature\" and \"The Last Song\" also feature scenes shot there.",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 244,
+          "name": "Get Outside",
+          "description":
+            "Explore City Market, Chippewa Square or the kid-friendly, but picturesque Forsyth Park for a midday picnic or end of day leisure walk. Or take post-lunch stroll midday on River Street that runs along the river.",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 245,
+          "name": "Southern Comfort",
+          "description":
+            "Southern cuisine permeates Savannah's food scene and, while traditional southern fare doesn't employ the healthiest food, you can certainly taste your way through the city without overindulging. Mindfully enjoy Southern comfort foods in the form of grits, fried green tomatoes, collards, fried chicken and barbecue, especially pork, which is central to the state's culture.",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 246,
+          "name": "Hostess City of the South",
+          "description":
+            "Savannah, nicknamed \"The Hostess City of the South,\" has plenty of entertainment for guests. This port city has a subtropical climate which is good for outdoor activities and sight-seeting year round. Visit during the spring to catch the \"Savannah Music Festival\" which is two-weeks long ans features over 100 world class musical events.",
+          "image": "http://placehold.it/400x400"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "status": 0,
+      "name": "Nashville, TN",
+      "description":
+        "Nashville is know as the epicenter of Country Music and  affectionately called the Music City. It is located in the north capital of and located in the central part of Tennessee.  The Country Music Hall of Fame and Museum and historic Ryman Auditorium are located downtown, as is the District, that feature some true honky tonk bars that celebrate the lives of stars like the late, great Johnny Cash.",
+      "image":
+        "http://placehold.it/400x400.jpg",
+      "pointsRequired": 230,
+      "completedItems": null,
+      "recommendedActions": ["Nashville 1", "Nashville Rocks!"],
+      "subStops": [
+        {
+          "id": 247,
+          "name": "The Food Culture",
+          "description":
+            "Although music has been the primary focus of Nashville, it's becoming more known for it's up and coming cullinary scene. Hot Chicken is a wellknown staple dish of the area; have a cold glass of water near by as you try this spicy delight!",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 248,
+          "name": "Musical Relaxation",
+          "description":
+            "Nashville is known for it's music scene. Listening to music can help relax the body and reduce stress levels. Take some time to sit back and enjoy the Grand Ole Opry House, the legendary country music venue.",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 249,
+          "name": "Take a Hike",
+          "description":
+            "With the beautiful, serene state parks like Centennial, Warner, and Radnor, there are plenty of walking trails to explore all witihin a few miles of the center of Nashville. They offer walks for every experience level, from your casual stroll to your strenuous hike.",
+          "image":
+            "http://placehold.it/400x400"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "status": 0,
+      "name": "New Orleans, LA",
+      "description":
+        "New Orleans, known as the \"Big Easy, is a town in Louisiana located right on the Mississippi River.  This bustling city is known for it's vibrant night life and music scene as well as it's unique cuisine flavor attributed to it's blend of French, Africian, and American culutures.",
+      "image":
+        "http://placehold.it/400x400.jpg",
+      "pointsRequired": 285,
+      "completedItems": null,
+      "recommendedActions": ["Test NO", "Test NO1"],
+      "subStops": [
+        {
+          "id": 250,
+          "name": "The French Quarter",
+          "description":
+            "Deep roots of the French history can be found in the historic French Quarter nestled in New Orleans. Deemed a national historic landmark due to it's buildings that are centuries old, the \"Quarter\" is a cultural experience for tourists and locals.",
+          "image":
+            "http://placehold.it/400x400"
+        },
+        {
+          "id": 251,
+          "name": "The Culture of Mardi Gras",
+          "description":
+            "The New Orleans tradition of Mardi Gras, came over to North America from Paris in the 17th century. The masquerede parties and parades provide a lively, vibrant atmosphere that tourists and locals alike look forward to partaking as the Spring season approaches. It is certainly worth experiencing at least once!",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 252,
+          "name": "A Creole Dining Experience",
+          "description":
+            "With a strong French influence and a mix of Native American, Europeans, and Africian roots, the creole cuisine offer a bold taste palate.  The essence of Creole is found in rich sauces, local herbs, tomatoes, and fresh caught seafood. Some of the primary Creole dishes to dive into are gumbos, the shrimp creole, grits and redfish dishes.",
+          "image": "http://placehold.it/400x400"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "status": 0,
+      "name": "Austin, TX",
+      "description":
+        "Austin is the capital of the state of Texas and home to the Texas flagship, the University of Texas. This bustling city is known for it's country, blues, and rock live music scene. This city's picturesque landscape also offers beautiful hiking trails and lakes to explore.",
+      "image": "http://placehold.it/400x400",
+      "pointsRequired": 355,
+      "completedItems": null,
+      "recommendedActions": [""],
+      "subStops": [
+        {
+          "id": 253,
+          "name": "Sixth Street",
+          "description":
+            "A great place for people watching is along Sixth Street, Austin's historic music and entertainment district. The bars and entertainment venues in this bustling area, provide some great music for your ears as well.",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 254,
+          "name": "Austin City Limits",
+          "description":
+            "While bringing in almost half a million people annually for this well-known, live music festival, Austin City Limits, provides musical acts across all genres. The popular festival takes place two weekends a year, in spacious Zilker Park and helps keep the name of the Live Music City alive.",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 255,
+          "name": "The Hidden Outdoors",
+          "description":
+            "Austin is the perfect city for the outdoors enthusiast with it's many tucked away hiking trails. From the challenging trails of River Place Nature Trail to the serene views of Turkey Creek Trail, there is a hike availble for all interest and experience levels.",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 256,
+          "name": "Whole Foods",
+          "description":
+            "In 1978, John Mackey and Renee Lawson started a natural foods store called SaferWay with a $45,000. Two years later, they merged with another local store and opened the very first Whole Foods Market.",
+          "image": "http://placehold.it/400x400"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "status": 0,
+      "name": "Minneapolis, MN",
+      "description":
+        "Minneapolis is the largest city in the state of Minnesota and stretches across both banks of the Mississippi River. It is known for its abundant sources of water, including wetlands, creeks, waterfalls, and 13 lakes. Serving as an important center of commerce between Chicago and Seattle, Minneapolis is home to five Fortune 500 companies and is one of the biggest economic centers of the midwest.",
+      "image":
+        "http://placehold.it/400x400.jpg",
+      "pointsRequired": 455,
+      "completedItems": null,
+      "recommendedActions": [""],
+      "subStops": [
+        {
+          "id": 257,
+          "name": "Tour on Kayak",
+          "description":
+            "Enjoy an afternoon of kayaking on the Mississippi River. Glide past historic Minneapolis landmarks and miles of forested parkland or take in views of the downtown Minneapolis skyline from the water as you get a workout in at the same time!",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 258,
+          "name": "Explore the Riverfront",
+          "description":
+            "Hit the city on foot and check out the Loring Park or Mill neighborhoods. These districts feature historic institutions and a mixture of scenic parks, cultural venues, and shopping. Considered the heart of downtown Minneapolis, Hennepin Avenue and Nicollet streets offer a cluster of great theaters and restaurants if you are seeking entertainment and delicious food.",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 259,
+          "name": "Find a Co-op",
+          "description":
+            "While in Minneapolis, find a co-op grocery store to purchase a few fresh local items. Cooperatives aim to serve the community's needs and have a large selection of healthful and high-quality foods that promote well-being with their emphasis on organic products native to the area.",
+          "image": "http://placehold.it/400x400"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "status": 0,
+      "name": "Yellowstone, WY",
+      "description":
+        "Yellowstone National Park is primarily located in the state of Wyoming, with parts reaching into Montana and Idaho. It has been home to generations of Native Americans and was the first National Park established in the U.S. Seated atop the largest supervolcano on Earth, Yellowstone Park contains half the world's geothermal features, including a number of regularly erupting geysers and brilliantly colored hot springs.",
+      "image": "http://placehold.it/400x400",
+      "pointsRequired": 475,
+      "completedItems": null,
+      "recommendedActions": ["Yellow 1", "Yellow Rocks!"],
+      "subStops": [
+        {
+          "id": 260,
+          "name": "Nature's Beauty",
+          "description":
+            "Yellowstone is rich with natural marvels and sustains hundreds of species of animals and plants, with diverse ecosystems spread throughout its magnificent territory.  In addition to the amazing wildlife visible around you, make sure to see Old Faithful or Yellowstone Lake, but stay safe and follow park regulations at all times!",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 261,
+          "name": "Getting Around",
+          "description":
+            "Service roads lead to most major attractions if you are traveling in your own car, but you can also explore the park on a guided tour or on horseback. With over 1,000 miles of trails and numerous backcountry campsites, Yellowstone is the perfect place for outdoor recreation.",
+          "image": "http://placehold.it/400x400\r\n"
+        },
+        {
+          "id": 262,
+          "name": "Try a New Protein",
+          "description":
+            "While out West, don't be afraid to try some different types of meat that you may have never had before. Bison and elk are lean, high-protein alternatives to beef.",
+          "image": "http://placehold.it/400x400"
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "status": 0,
+      "name": "Denver, CO",
+      "description":
+        "Located on the eastern edge of the Rocky Mountains and situated an entire mile above sea level, Denver is Colorado's capital and has a reputation for being one of the most active, outdoor-oriented cities.",
+      "image": "http://placehold.it/400x400",
+      "pointsRequired": 510,
+      "completedItems": null,
+      "recommendedActions": [""],
+      "subStops": [
+        {
+          "id": 263,
+          "name": "Mountain Hike",
+          "description":
+            "With over 14,000 acres of mountain parks throughout Colorado and plenty near Denver, take advantage of the breathtaking scenery around you and find a trail to hike. Consult a guide book or do some research online to find a trail that suits your experience and desired difficulty. Always make sure you hydrate and give yourself time to adjust to the altitude before attempting any strenuous activity!",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 264,
+          "name": "Try a Vegetarian Dish",
+          "description":
+            "Introduce yourself to a new dining experience by checking out a vegetarian or vegan restaurant in downtown Denver and exploring the menu. You might be surprised to see comfort foods you love prepared with ingredients that are dairy-free, egg-free, and meat-free. Keep an open mind when trying new foods, and if you prefer a more traditional meal, remember that Colorado is known for its authentic Mexican cuisine.",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 265,
+          "name": "Spend Time Outdoors",
+          "description":
+            "Spending time outside, especially in an area as beautiful as Denver, can be extremely uplifiting for the mind, body, and spirit. The options for exercise are boundless. Depending on the time of year and your interests, you are in a prime location to hike, bike, ski, snowboard, kayak, walk, or camp, among many other activities.",
+          "image": "http://placehold.it/400x400"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "status": 0,
+      "name": "Grand Canyon, AZ",
+      "description":
+        "One of the seven natural wonders of the world due to it's size and picturesque landscape, the Grand Canyon is a vast, natural formation in northern Arizona carved by the Colorado River 5-6 million years ago.",
+      "image":
+        "http://placehold.it/400x400",
+      "pointsRequired": 620,
+      "completedItems": null,
+      "recommendedActions": [""],
+      "subStops": [
+        {
+          "id": 266,
+          "name": "Grand Canyon Activities",
+          "description":
+            "There are plenty of activities to do at the Grand Canyon National Park including rafting, biking, camping and hiking. If you're up for the challenge hike the Bright Angel Trail, 9.5 miles long, that start from the Rim and ends at the Colorado River. For safety reasons, don't hike during the summer, extreme heat, or alone.",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 267,
+          "name": "Reduce, Reuse, and Refill",
+          "description":
+            "Bring your own water bottle to fill up with water from one of the many designated water filling stations. The park has made a commitment to reduce plastics and litter along trails by encouraging everyone to \"reduce, reuse and refill.\"",
+          "image":
+            "http://placehold.it/400x400"
+        },
+        {
+          "id": 268,
+          "name": "Natural Beauty",
+          "description":
+            "The Grand Canyon's size, 227 miles long, and intricate colorful landscape attracts 5 million visitors each year. Plan a trip to the Grand Canyon with friends and/or family as a way to incorporate fun into your busy life and reduce stress levels.",
+          "image": "http://placehold.it/400x400"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "status": 0,
+      "name": "San Francisco, CA",
+      "description":
+        "San Francisco, the second most densely populated US city after NYC, is a cultural, commercial and financial hub of Northern California with an eclectic blend of architecture, restaurants, businesses, boutiques, and cafes.",
+      "image":
+        "http://placehold.it/400x400",
+      "pointsRequired": 650,
+      "completedItems": null,
+      "recommendedActions": ["Complete Program", "Read an Article"],
+      "subStops": [
+        {
+          "id": 269,
+          "name": "Cable Cars",
+          "description":
+            "San Francisco is well-known for being a physically active city. Even though it is known for steep rolling hills, it is still one of the most walkable cities in America. If you prefer not to walk you can ride the cable cars or bike for transit.",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 270,
+          "name": "Golden Gate Bridge",
+          "description":
+            "When visiting San Francisco make sure you visit the Golden Gate Bridge, Fisherman's Warf and Chinatown. If you choose to walk the Golden Gate Bridge you'll walk 1.7 miles worth of steps.",
+          "image": "http://placehold.it/400x400"
+        },
+        {
+          "id": 271,
+          "name": "San Fran Eats",
+          "description":
+            "San Francisco is famous for its restaurants and food trends. Some typical local foods include abalone, Dungeness crab, sand dabs, bay shrimp and crusty sourdough French bread. \"Joe's Special,\" an inconic popular dish, consists of eggs, garlic, spinach and ground beef.",
+          "image": "http://placehold.it/400x400"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "status": 0,
+      "name": "Portland, OR",
+      "description":
+        "Portland, OR is one of the most environmentally conscious cities. Orgeon is located in a diverse argicultural region and includes the coastline, mountains, valleys, deserts, forests, and large cities.",
+      "image": "http://placehold.it/400x400",
+      "pointsRequired": 685,
+      "completedItems": null,
+      "recommendedActions": [""],
+      "subStops": []
+    }
+  ]
+}
