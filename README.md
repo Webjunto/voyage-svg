@@ -1,2 +1,2 @@
 ## Voyage SVG Abstraction
-#### Work in progress
+### This project has been moved to [openforge/ngx-voyage-svg](https://github.com/openforge/ngx-voyage-svg)
